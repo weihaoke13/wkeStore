@@ -13,4 +13,4 @@ $db = new DBController();
 $product = new Product($db);
 //$product_shuffle = $product->getData();
 
-//$product->getData(table)
+//print_r($product->getData());

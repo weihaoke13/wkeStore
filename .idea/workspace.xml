@@ -20,7 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51109879-6988-44d0-8780-48ff4bffbe7a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/Template/_cart-template.php" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/Template/_cart-template.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/Template/_new-phones.php" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/Template/_new-phones.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/Template/_special-price.php" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/Template/_special-price.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/Template/_top-sale.php" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/Template/_top-sale.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ecommerce/database/Cart.php" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/database/Cart.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/database/Product.php" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/database/Product.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +70,8 @@
       <option name="presentableId" value="Default" />
       <updated>1596925490239</updated>
       <workItem from="1596925491585" duration="4864000" />
-      <workItem from="1597014859372" duration="3964000" />
+      <workItem from="1597014859372" duration="4234000" />
+      <workItem from="1597099393388" duration="3503000" />
     </task>
     <servers />
   </component>
@@ -79,6 +88,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1072" y="156" key="#PHP" timestamp="1596925661854">
